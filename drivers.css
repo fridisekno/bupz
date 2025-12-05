@@ -1,0 +1,24 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+.header {
+    width: 1740px;
+    height: 400px;
+    background-image: url(./1701827944_sport-photosota-club-p-znamenitie-uchastniki-formuli-1-24.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+.h1 {
+    color: whitesmoke;
+    text-align: center;
+
+}
+
